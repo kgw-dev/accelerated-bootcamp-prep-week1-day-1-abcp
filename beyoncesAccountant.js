@@ -1,11 +1,10 @@
-var = sum;
-console.log("Dear Beyonce,")
+var sum = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000;
+var beyoncesMoney = sum;
+console.log("Dear Beyonce,");
 console.log("We have calculated your total earnings this year.");
 console.log("You have earned " + beyoncesMoney);
-sum = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000;
-console.log("Of" + sum + " some portion derives from your live performances.");
-sum = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000;
-console.log("Of" + sum + " some portion derives from music sales.");
+console.log("Of " + sum + " some portion derives from your live performances.");
+console.log("Of " + sum + " some portion derives from music sales.");
 
 
 // DON'T DO THIS PART YET:
